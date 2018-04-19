@@ -1,0 +1,71 @@
+div{
+
+	margin-right: auto:
+	margin-left: auto;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 30px;
+}
+
+/*div{
+	position: sticky;
+    top: 0;
+}*/
+
+.top{
+	text-align: center;
+	color: #ffffff;
+	background-color: #4aaaa5;
+	font-weight: bold;
+	width: 10%;
+	padding: 20px;
+	font-size: 30px;
+	display: inline;
+}
+
+a{
+	text-decoration: none;
+	font-size: 20px;
+	float: right;
+	padding-right: 20px;
+	color: #dddddd;
+
+}h1{
+	clear: both;
+}
+
+a:hover{
+	color: #777777;
+}
+
+a:visited{
+	color: #777777;
+}
+
+a:active{
+	color: #888888;
+	  transform: translateY(4px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
