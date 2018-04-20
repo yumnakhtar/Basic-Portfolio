@@ -1,22 +1,29 @@
-div{
-
-	margin-right: auto:
-	margin-left: auto;
-	padding-left: 200px;
-	padding-right: 200px;
-	padding-top: 30px;
+.wide{
+	background-color: #ffffff;
 }
 
+
+.head{	
+	font-family: Georgia, Times, "Times New Roman", serif;
+	position: sticky;
+	padding:23px;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+
+hr {
+	margin: 0px;
+}
 /*div{
 	position: sticky;
     top: 0;
-}*/
+    }*/
 
 .top{
-	text-align: center;
 	color: #ffffff;
 	background-color: #4aaaa5;
-	font-weight: bold;
 	width: 10%;
 	padding: 20px;
 	font-size: 30px;
@@ -30,25 +37,53 @@ a{
 	padding-right: 20px;
 	color: #dddddd;
 
-}h1{
-	clear: both;
-}
+	}
+
+h1{
+		clear: both;
+	}
 
 a:hover{
-	color: #777777;
-}
+		color: #cccccc;
+	}
 
 a:visited{
-	color: #777777;
-}
+		color: #cccccc;
+	}
 
 a:active{
-	color: #888888;
-	  transform: translateY(4px);
+		color: #888888;
+		transform: translateY(4px);
+	}
+
+h1{
+		color:#4aaaa5;
+		font-size: 30px;
+		font-family: Georgia, Times, "Times New Roman", serif;
+		font-weight: bold;
+		padding-left: 30px;
+	}
+
+body{
+		/*why is the header also included in this?*/
+		background-color: #ddf0f0;
+	}
+
+.main {
+
+		background-color: #ffffff;
+		width: 960px;
+		clear:both;
+		margin-left: auto;
+		margin-right: auto;
+		font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;*/
+	}
+
+.inside {
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
 }
-
-
-
 
 
 
