@@ -28,7 +28,7 @@ body{
 	display: inline;
 }
 
-a{
+.link{
 	text-decoration: none;
 	font-size: 20px;
 	float: right;
@@ -36,15 +36,15 @@ a{
 	color: #dddddd;
 }
 
-a:hover{
+.link:hover{
 	color: #cccccc;
 }
 
-a:visited{
+.link:visited{
 	color: #cccccc;
 }
 
-a:active{
+.link:active{
 	color: #888888;
 	transform: translateY(4px);
 }
@@ -125,21 +125,19 @@ input {
 
 
 /*****styling code for portfolio*****/
-.portfolios{
-	
-}
 
 .port{
-	margin: 55px;
-
+	padding: 15px;
+	margin: 40px;
 }
 
+.port:active{
+	transform: translateY(5px);
+}
 
-
-
-
-
-
+.port:hover{
+	background-color: #dddddd;
+}
 
 
 
