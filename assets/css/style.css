@@ -85,7 +85,7 @@ section{
 	text-indent: 40px;
 }
 
-img{
+.image{
 	float: left;
 	padding: 30px;
 	padding-top: 0px;
@@ -125,6 +125,37 @@ input {
 
 
 /*****styling code for portfolio*****/
+.portfolios{
+	
+}
+
+.port{
+	margin: 55px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
